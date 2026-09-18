@@ -156,5 +156,5 @@ When the user triggers the interaction input, the inventory system follows this 
 - Stacking & Inventory Logic     - World Spawning                   - Tool Interaction                     - Snapping System (Ark/Valheim)
 - UMG Grid Interface             - Physics Impulse                  - Loot Table Drops                     - Structural Integrity
 
-This page has been generated with AI and myself
 ```
+This page has been generated with AI and myself
